@@ -1,6 +1,8 @@
 ## Hi there 👋, I am Austin Dsouza
 
 ---
+## About Me
+
 👨‍💻 CSE Student at New LJ College  
 🐍 Learning Python  
 📚 Curious about DSA  
